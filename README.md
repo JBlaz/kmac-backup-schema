@@ -21,7 +21,7 @@ Quarterly, a copy of the data synchronized to the Synology Server will be put on
 
 #### Diagram
 
-![Alt text](/images/KMAC%20Data%20Flow%20Diagram.png?raw=true)
+![Alt text](https://github.com/JBlaz/kmac-backup-schema/blob/master/images/KMAC%20Data%20Flow%20Diagram.png?raw=true)
 
 ## Data Descriptions
 
