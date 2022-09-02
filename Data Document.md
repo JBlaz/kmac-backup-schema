@@ -1,9 +1,9 @@
 <center>
-    <p><h1>KMAC Data Storage/Backup</h1>
+    <p><h1>KMAC Data Storage/Backup</h1><br>
     Modified 9/2/2022</p>
 </center>
 
-Data related to the Kiss My Ass Club (KMAC) is described, stored, and accessed as described in this document.
+Data related to the Kiss My Ass Club (KMAC) is [described](#data-descriptions), [stored](#storagebackup-methodology), and [accessed](#accessing-backup-data) as described in this document.
 
 ## Storage/Backup Methodology
 
